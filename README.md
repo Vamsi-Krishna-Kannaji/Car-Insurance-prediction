@@ -1,5 +1,6 @@
 # Car-Insurance-prediction
 For understanding about data:
+
 Car_Insurance_Claim Dataset :- 
 This dataset contains 18 independent variables and 1 dependent variable.
 Table : Write all variable names
